@@ -87,3 +87,5 @@ print(f"✅ Done! Check results:")
 print(f"   📊 Terminal output above")
 print(f"   📈 CSV report: {args.out}")
 print(f"   📁 Scanned {len(results)} files")
+
+##RUNNING THE PROGRAM: python main.py --folder samples --out my_report.csv
