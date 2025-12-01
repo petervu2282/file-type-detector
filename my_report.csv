@@ -1,0 +1,6 @@
+Filename,Extension,Detected_Type,Status
+A docx.docx,docx,zip,⚠️  SUSPICIOUS (looks like zip)
+A fake picture.pdf,pdf,jpg,⚠️  SUSPICIOUS (looks like jpg)
+A PDF.pdf,pdf,pdf,✅ OK
+A picture.jpg,jpg,jpg,✅ OK
+A zip.zip,zip,zip,✅ OK
