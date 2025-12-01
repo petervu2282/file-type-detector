@@ -16,12 +16,12 @@ Cybersecurity tool that detects file type mismatches using magic numbers – fla
 - Exports **CSV report** for Excel analysis
 
 ## 🖥️ Demo
-real.jpg | jpg | jpg | ✅ OK /n
+real.jpg | jpg | jpg | ✅ OK
 fake.pdf | pdf | exe | ⚠️ SUSPICIOUS (looks like elf)
 
 
 ## 🚀 Quick Start
-pip install -r requirements.txt # (optional, uses stdlib) /n
+pip install -r requirements.txt # (optional, uses stdlib)
 python main.py --folder samples --out report.csv
 
 
